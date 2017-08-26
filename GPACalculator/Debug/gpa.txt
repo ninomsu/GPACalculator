@@ -1,0 +1,5 @@
+true		#if calculating with cumlative gpa -> true, if just semester -> false
+3.484 100 	#current gpa before factoring in new semester gpa -> GPA, Credits
+4.0 4		#classes -> GPA, Credits
+3.5 3
+3.5 3

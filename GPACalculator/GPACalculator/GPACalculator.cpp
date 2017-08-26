@@ -72,6 +72,7 @@ int main()
 	
 	}
 
+	system("pause");
 
 }
 	
